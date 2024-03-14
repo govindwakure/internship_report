@@ -1,0 +1,28 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore log files
+*.log
+
+# Ignore IDE-specific folders and files
+.idea/
+.vscode/
+
+# Ignore configuration files with sensitive information
+config.ini
+
+# Ignore temporary files
+*.tmp
+
+# Ignore compiled binaries
+*.exe
+*.dll
+
+#Ignore static folders
+static/students/*/
+
+config.py
+.vercel

@@ -1,0 +1,8 @@
+# config.txt
+
+SECRET_KEY=''
+DEBUG=True
+DATABASE_URI=''
+ADMIN_EMAIL = ''
+ADMIN_EMAIL_PASSWORD = ''
+EMAIL_PORT = 
